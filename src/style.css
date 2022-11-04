@@ -1,0 +1,27 @@
+h1,
+h2,
+h3 {
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h3 {
+  font-size: 24px;
+  opacity: 0.7;
+}
+
+.links {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}

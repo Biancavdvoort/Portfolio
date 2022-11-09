@@ -29,6 +29,15 @@ h3 {
   opacity: 0.7;
 }
 
+p {
+  background: var(--secondary-color);
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
 .links {
   flex: center;
   margin: 20px;
@@ -53,4 +62,17 @@ h3 {
   color: var(--primary-color);
   display: block;
   text-align: center;
+}
+
+.paragraphs-about-me {
+  display: flex;
+  margin: 30px 0;
+}
+
+.email-link {
+  display: flex;
+  justify-content: center;
+  color: var(--primary-color);
+  font-size: 28px;
+  text-decoration: none;
 }

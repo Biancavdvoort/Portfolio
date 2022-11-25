@@ -80,3 +80,8 @@ p {
 .about-me-h1 {
   margin-top: 50px;
 }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}

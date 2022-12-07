@@ -42,6 +42,11 @@ p {
   p {
     text-align: center;
   }
+  .primary-link {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
 }
 
 .navigation-links {

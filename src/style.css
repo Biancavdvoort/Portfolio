@@ -33,9 +33,14 @@ p {
 @media (max-width: 576px) {
   h2 {
     font-size: 32px;
+    margin: 0px;
+    text-align: center;
   }
   h1 {
     font-size: 40px;
+  }
+  p {
+    text-align: center;
   }
 }
 
